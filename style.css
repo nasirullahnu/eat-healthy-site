@@ -60,8 +60,20 @@ span{
     padding: 10px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 15px;
+    text-align: center;
 
 }
 .third-div img{
     width: 100%;
+}
+.last-section{
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 60px;
+    
+}
+.social{
+    width: 30%;
+    margin-left: 13%;
+
 }
