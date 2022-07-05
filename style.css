@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+}
+.flexible-container{
+    display: flex;
+}
+.first-div{
+    width: 90%;
+    padding: 7%;
+}
+.first-div img{
+    width: 100%;
+    margin-top: 0px;
+    
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, blue);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
