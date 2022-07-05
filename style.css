@@ -40,6 +40,7 @@ span{
 }
 .container-color{
     background-color:rgb(243, 243, 243);
+    background-image: url(images/shapes/7.png);
 }
 .recipe{
     text-align: center;
@@ -48,4 +49,19 @@ span{
 .recipe p{
     width: 500px;
     margin-left: 34%;
+}
+.third-container{
+    display: flex;
+}
+.third-div{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+
+}
+.third-div img{
+    width: 100%;
 }
