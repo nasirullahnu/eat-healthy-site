@@ -1,13 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 10px;
+ 
 }
 .flexible-container{
     display: flex;
 }
 .first-div{
     width: 90%;
-    padding: 7%;
+    padding-left: 4%;
+    padding-right: 4%;
 }
 .first-div img{
     width: 100%;
@@ -22,8 +23,9 @@ span{
 }
 .hire-button{
     text-decoration: none;
-    background-image: linear-gradient(yellow, blue);
+    background-image: linear-gradient(yellow, rgb(51, 255, 0));
     color: white;
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 10px;
+    border: 2px soldi blue;
 }
