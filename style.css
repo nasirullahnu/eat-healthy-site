@@ -11,9 +11,7 @@ body{
     padding-right: 4%;
 }
 .first-div img{
-    width: 100%;
-    margin-top: 0px;
-    
+    width: 100%;  
 }
 h1{
     font-size: 50px;
@@ -28,4 +26,18 @@ span{
     padding: 10px 40px;
     border-radius: 10px;
     border: 2px soldi blue;
+}
+.second-div{
+    width: 90%;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: 50px;
+}
+.second-div img{
+    width: 50%;
+    height: 400px;
+    padding-left: 20%;
+}
+.container-color{
+    background-color:rgb(243, 243, 243);
 }
