@@ -41,3 +41,11 @@ span{
 .container-color{
     background-color:rgb(243, 243, 243);
 }
+.recipe{
+    text-align: center;
+    width: auto 500px;
+}
+.recipe p{
+    width: 500px;
+    margin-left: 34%;
+}
