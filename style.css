@@ -68,7 +68,7 @@ span{
 }
 .last-section{
     display: flex;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 5px 5px 10px gray;
     margin-top: 60px;
     
 }
@@ -76,4 +76,17 @@ span{
     width: 30%;
     margin-left: 13%;
 
+}
+footer{
+    height: 100px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(15, 15, 82);
+    margin-top: 40px;
+}
+footer p{
+    color: white;
+}
+.fresh{
+    color: blue;
 }
